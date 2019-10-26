@@ -10,7 +10,7 @@
 
 ### App Walkthough GIF
 
-<img src="Walkthrough2.gif" width=250><br>
+<img src="Walkthrough_2.gif" width=250><br>
 
 ## Flix Part 1
 
